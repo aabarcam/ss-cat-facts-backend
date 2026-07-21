@@ -18,7 +18,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 # Simpler API requests [https://github.com/jnunemaker/httparty]
-gem "httparty", "~> 0.23.1"
+gem "httparty", "~> 0.24.2"
 # Support for Cross-Origin Resource Sharing (CORS) for Rack compatible web applications. [https://github.com/cyu/rack-cors]
 gem "rack-cors"
 # JWT authentication [https://github.com/jwt/ruby-jwt]
